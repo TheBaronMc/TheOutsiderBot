@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+        "discord.js": "12.3.1",
+        "ytdl-core": "3.2.2",
+        "fs": "0.0.1-security",
+        "tedis": "0.1.12"
+    }
+}

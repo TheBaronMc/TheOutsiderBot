@@ -1,0 +1,15 @@
+{
+    "token" : "",
+    "prefix" : "!",
+    "owner" : "",
+    "voidId" : "",
+    "outsider" : {
+        "helloGif" : "https://tenor.com/view/dishonored-death-of-the-outsider-looking-gaming-video-game-gif-17574995",
+        "goodByeGif" : "https://media.giphy.com/media/xT39DiEPkiN6tO7Oow/giphy.gif"
+    },
+    "features" : {
+        "antispam" : true,
+        "jukebox" : true,
+        "messages" : true
+    }
+}
